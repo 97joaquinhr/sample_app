@@ -9,7 +9,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+[LICENSE](LICENSE.md) for details.
 
 ## Getting started
 
